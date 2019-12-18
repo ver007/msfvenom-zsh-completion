@@ -28,7 +28,7 @@ zsh 在 mac 中的安装和使用。
 安装
 ## 安装
 
-    1. curl -L https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh | sh
+    1. sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)" "" --unattended
 
     # 创建配置文件
     2. cp ~/.oh-my-zsh/templates/zshrc.zsh-template ~/.zshrc
