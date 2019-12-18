@@ -24,7 +24,11 @@ If you get stuck into troubles when using it, run `compinit` to reinitialize the
 ## zsh
 
 zsh 是一个虚拟终端，原先不同的终端有不同的命令，现在通过这个虚拟终端就可以执行所有的命令，如可以执行git命令、subline命令等。
+
+https://github.com/ohmyzsh/ohmyzsh
+
 zsh 在 mac 中的安装和使用。
+
 安装
 ## 安装
 
